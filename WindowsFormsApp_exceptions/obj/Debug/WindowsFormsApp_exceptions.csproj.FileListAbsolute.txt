@@ -1,0 +1,10 @@
+C:\Users\Edward\source\repos\WindowsFormsApp_exceptions\bin\Debug\WindowsFormsApp_exceptions.exe.config
+C:\Users\Edward\source\repos\WindowsFormsApp_exceptions\bin\Debug\WindowsFormsApp_exceptions.exe
+C:\Users\Edward\source\repos\WindowsFormsApp_exceptions\bin\Debug\WindowsFormsApp_exceptions.pdb
+C:\Users\Edward\source\repos\WindowsFormsApp_exceptions\obj\Debug\WindowsFormsApp_exceptions.csprojAssemblyReference.cache
+C:\Users\Edward\source\repos\WindowsFormsApp_exceptions\obj\Debug\WindowsFormsApp_exceptions.Form1.resources
+C:\Users\Edward\source\repos\WindowsFormsApp_exceptions\obj\Debug\WindowsFormsApp_exceptions.Properties.Resources.resources
+C:\Users\Edward\source\repos\WindowsFormsApp_exceptions\obj\Debug\WindowsFormsApp_exceptions.csproj.GenerateResource.cache
+C:\Users\Edward\source\repos\WindowsFormsApp_exceptions\obj\Debug\WindowsFormsApp_exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Edward\source\repos\WindowsFormsApp_exceptions\obj\Debug\WindowsFormsApp_exceptions.exe
+C:\Users\Edward\source\repos\WindowsFormsApp_exceptions\obj\Debug\WindowsFormsApp_exceptions.pdb
